@@ -15,6 +15,7 @@ Full-stack engineer with 4+ years of building and running web and mobile product
 
 ### Projects
 
+- **[content-ops-admin](https://github.com/eunice-yk-Cho/content-ops-admin)**: Next.js and PostgreSQL admin with session auth, role and row-level permissions, optimistic locking and a TanStack Query UI, with integration tests against a real database in CI
 - **[fairness-ga](https://github.com/eunice-yk-Cho/fairness-ga)**: Genetic algorithm vs. random search for finding fairness violations in ML classifiers, with paired Wilcoxon tests over 30 trials on three benchmark datasets
 - **AI Analytics Assistant**: Natural-language questions over a live dashboard. The LLM only extracts intent and phrases answers; every number comes from validated, parameterised SQL and is cross-checked before it is shown (FastAPI, PostgreSQL, Redis, React)
 - **Canva Hackathon, 1st place**: Canva-native prototype for social content creation, scheduling and publishing (team project)
@@ -22,11 +23,11 @@ Full-stack engineer with 4+ years of building and running web and mobile product
 
 ### Tech stack
 
-- **Frontend**: TypeScript, JavaScript, React, Next.js, Vite, Redux, Vue.js
+- **Frontend**: TypeScript, JavaScript, React, Next.js, TanStack Query, Vite, Redux, Vue.js
 - **Mobile and native**: React Native, Swift, C++, XCTest, CodePush, Firebase Cloud Messaging
 - **Backend and data**: Python, FastAPI, REST API, WebSocket, PostgreSQL, Redis
 - **AI and ML**: LLM applications, RAG, PyTorch, Hugging Face, OpenCV
-- **Tooling**: Docker, Git, GitLab, Jenkins, GitHub Actions, Google Analytics
+- **Tooling**: Docker, Git, GitLab, Jenkins, GitHub Actions, Vitest, Google Analytics
 
 ### Education
 
